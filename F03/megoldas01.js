@@ -1,0 +1,11 @@
+let nev = "Szücs Gergely";
+let azonosito = "Team 15";
+let html = "90";
+let css = "90";
+let javascript = "65";
+document.write(`<h3>1. Feladat</h3>`);
+document.write(`Beküldő neve: ${nev} <br>`);
+document.write(`Beküldő csoport azonosítója: ${azonosito} <br>`);
+document.write(`Beküldő HTML szinjte: ${html} <br>`);
+document.write(`Beküldő CSS szinjte: ${css} <br>`);
+document.write(`Beküldő Javascript szinjte: ${javascript} <br>`);
